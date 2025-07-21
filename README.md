@@ -1,52 +1,65 @@
 # 👋 Hi, I'm Lucas! Welcome to my GitHub
 
-## 🚀 About Me
+## About Me
 
-I'm Lucas, a passionate and motivated developer currently studying at Holberton School.  
-I love building projects, learning new technologies, and solving real-world problems with code.  
+I'm Lucas, a passionate developer and student at Holberton School.  
+I enjoy building projects, learning new technologies, and solving real-world problems with code.  
 My goal is to become a versatile software engineer, ready to tackle any challenge!
 
 ---
 
 ## 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Python** (≈ 70%)  
+  Used for most of my projects: scripting, OOP, web development (Flask), data manipulation, and automation.
+- **C** (≈ 20%)  
+  Used for low-level programming, algorithms, and understanding computer fundamentals.
+- **SQL** (≈ 5%)  
+  Used for database management, queries, and data analysis.
+- **HTML/CSS** (≈ 5%)  
+  Used for web interfaces and server-side rendering with Flask/Jinja.
+- **Other tools:** Git, Linux, Bash, Flask, MySQL
 
 ---
 
-## 📂 Main Repositories
+## 📂 Main Repositories & Projects
 
-| Repository | Description |
-|------------|-------------|
-| [python-if_else_loops_functions](./python-if_else_loops_functions) | Python basics: if/else, loops, functions |
-| [python-import_modules](./python-import_modules) | Python modules and import system |
-| [python-more_classes](./python-more_classes) | Advanced Python OOP and classes |
-| [python-more_data_structures](./python-more_data_structures) | Advanced data structures in Python |
-| [python-object_relational_mapping](./python-object_relational_mapping) | ORM and database interaction with Python |
-| [python-serialization](./python-serialization) | Data serialization in Python (JSON, pickle) |
-| [python-test_driven_development](./python-test_driven_development) | TDD and unit testing in Python |
-| [python-input_output](./python-input_output) | File I/O and JSON in Python |
-| [python-server_side_rendering](./python-server_side_rendering) | Flask, Jinja, and web development |
-| [restful-api](./restful-api) | RESTful API design and consumption |
-| [SQL_introduction](./SQL_introduction) | SQL basics and database queries |
-| [SQL_more_queries](./SQL_more_queries) | Advanced SQL queries and joins |
+| Repository | Description | Main Languages |
+|------------|-------------|---------------|
+| [python-if_else_loops_functions](./python-if_else_loops_functions) | Basics of Python: conditions, loops, and functions | Python |
+| [python-import_modules](./python-import_modules) | Python modules, import system, and code organization | Python |
+| [python-more_classes](./python-more_classes) | Advanced OOP: classes, special methods, properties | Python |
+| [python-more_data_structures](./python-more_data_structures) | Sets, dictionaries, advanced list operations | Python |
+| [python-object_relational_mapping](./python-object_relational_mapping) | ORM, SQLAlchemy, database interaction | Python, SQL |
+| [python-serialization](./python-serialization) | Data serialization: JSON, pickle, file I/O | Python |
+| [python-test_driven_development](./python-test_driven_development) | TDD, unit testing, doctest, code quality | Python |
+| [python-input_output](./python-input_output) | File operations, JSON, reading/writing files | Python |
+| [python-server_side_rendering](./python-server_side_rendering) | Web apps with Flask & Jinja, HTML templates | Python, HTML |
+| [restful-api](./restful-api) | RESTful API design, HTTP methods, Flask APIs | Python |
+| [SQL_introduction](./SQL_introduction) | SQL basics: create, select, insert, update | SQL |
+| [SQL_more_queries](./SQL_more_queries) | Advanced SQL: joins, subqueries, aggregation | SQL |
+| [python-everything_is_object](./python-everything_is_object) | Deep dive into Python objects, mutability, identity | Python |
 
 ---
 
 ## 🌱 What I'm Learning
 
 - Backend development with Python (Flask, SQLAlchemy)
-- Frontend basics (HTML, CSS)
-- Databases (MySQL, SQLite)
-- Algorithms and data structures
+- Databases (MySQL, SQLite, SQL queries)
+- Algorithms and data structures (Python & C)
 - Test Driven Development (TDD)
+- Web basics (HTML, CSS, Jinja templates)
+
+---
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/votre-profil)
+- [Email](mailto:votre.email@example.com)
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 ---
 
