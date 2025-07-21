@@ -10,7 +10,7 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 
 ## 🛠️ Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=dark)
+![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
 
 ---
 
