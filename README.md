@@ -14,29 +14,48 @@ I'm highly motivated to keep learning, take on new challenges, and build a caree
 ![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
 
 ### Programming Languages
-- **Python**  
-  Used for scripting, automation, and backend development  
-  *(holbertonschool-higher_level_programming, holbertonschool-chatgpt-introduction, holbertonschool-hbnb)*
-- **C**  
-  Used for systems programming, algorithms, and low-level projects  
-  *(holbertonschool-sorting_algorithms, holbertonschool-binary_trees, holbertonschool-low_level_programming, holbertonschool-simple_shell, holbertonschool-printf)*
-- **Shell**  
-  Used for scripting and DevOps tasks  
-  *(holbertonschool-shell, holbertonschool-zero_day)*
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python**  
+  _Scripting, automation, backend development_  
+  <sub>holbertonschool-higher_level_programming, holbertonschool-chatgpt-introduction, holbertonschool-hbnb</sub>
+
+- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) **C**  
+  _Systems programming, algorithms, low-level projects_  
+  <sub>holbertonschool-sorting_algorithms, holbertonschool-binary_trees, holbertonschool-low_level_programming, holbertonschool-simple_shell, holbertonschool-printf</sub>
+
+- ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) **Shell**  
+  _Scripting and DevOps tasks_  
+  <sub>holbertonschool-shell, holbertonschool-zero_day</sub>
+
+---
 
 ### Web Development
-- **HTML, CSS, JavaScript**  
-  Used for building web interfaces and front-end projects  
-  *(holbertonschool-web_front_end, HolberQuest)*
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+  _Building web interfaces and front-end projects_  
+  <sub>holbertonschool-web_front_end, HolberQuest</sub>
+
+---
 
 ### DevOps & Tools
-- **Shell scripting**  
-  For automation and system administration  
-  *(holbertonschool-shell, holbertonschool-zero_day)*
-- **Git & GitHub**  
-  For version control and collaboration (used in all projects)
-- **Linux**  
-  As the main development and deployment environment
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) **Shell scripting**  
+  _Automation and system administration_  
+  <sub>holbertonschool-shell, holbertonschool-zero_day</sub>
+
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+  _Version control and collaboration (used in all projects)_
+
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+  _Main development and deployment environment_
+
+---
+
+### Other Focus Areas
+- **Algorithms & Data Structures**  
+  <sub>holbertonschool-sorting_algorithms, holbertonschool-binary_trees, holbertonschool-low_level_programming</sub>
+- **Cybersecurity**  
+  <sub>Planned specialization for 2026–2028</sub>
 
 ---
 
