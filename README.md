@@ -12,7 +12,6 @@ I'm highly motivated to keep learning, take on new challenges, and build a caree
 ## 🛠️ Languages & Tools
 
 ![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
-## 🛠️ Languages & Tools
 
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python**  
