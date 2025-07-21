@@ -16,11 +16,18 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 
 ## 📂 Featured Repositories
 
-| Repository | Description | Main Languages |
-|------------|-------------|---------------|
-| [printf](https://github.com/Lucas-Boyadjian/printf) | Custom implementation of the C `printf` function. Handles formatted output, flags, width, precision, and more. | C |
-| [simple-shell](https://github.com/Lucas-Boyadjian/simple_shell) | A simple UNIX shell written in C. Supports command execution, built-ins, environment variables, and piping. | C |
-| [AirBnB_clone (hbnb)](https://github.com/Lucas-Boyadjian/AirBnB_clone) | A clone of the AirBnB web app. Features object storage, command interpreter, and web interface using Python. | Python |
+| Dépôt                                    | Description                                      | Langage principal      |
+|-------------------------------------------|--------------------------------------------------|-----------------------|
+| [holbertonschool-binary_trees](https://github.com/Lucas-Boyadjian/holbertonschool-binary_trees)             | Algorithmes et structures d’arbres binaires      | C                     |
+| [holbertonschool-printf](https://github.com/Lucas-Boyadjian/holbertonschool-printf)                         | Implémentation personnalisée de printf           | C                     |
+| [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)             | Mini shell Unix                                  | C                     |
+| [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming) | Exercices Python, JavaScript, SQL, etc.          | Python, JS, SQL       |
+| [holbertonschool-low_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-low_level_programming)       | Exercices C, algorithmes, structures de données  | C                     |
+| [holbertonschool-sorting_algorithms](https://github.com/Lucas-Boyadjian/holbertonschool-sorting_algorithms)             | Algorithmes de tri                               | C                     |
+| [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)                       | Projets HTML, CSS, JavaScript                    | HTML, CSS, JS         |
+| [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day)                                 | Premiers projets et scripts d’installation       | Shell, Markdown       |
+
+## 📫 Me contacter
 
 ---
 
