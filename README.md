@@ -53,6 +53,6 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-boyadjian-535a4815b)
-- [Email](mailto:votre.email@example.com)
+- [Email](luc.boyadjian@gmail.com)
 
 ---
