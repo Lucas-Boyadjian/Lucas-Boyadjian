@@ -30,8 +30,6 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 | [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell) | Unix command-line shell (forked from FontGuillaume) | C |
 | [holbertonschool-printf](https://github.com/Lucas-Boyadjian/holbertonschool-printf) | Custom implementation of printf function | C |
 
-## 📫 Me contacter
-
 ---
 
 ## 📚 What I'm learning
