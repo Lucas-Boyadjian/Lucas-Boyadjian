@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Lucas! Welcome to my GitHub
 
-![Banner](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1350&q=80)
-
 ## 🚀 About Me
 
 I'm Lucas, a passionate and motivated developer currently studying at Holberton School.  
@@ -54,11 +52,7 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/votre-profil)
+- [LinkedIn]([https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/lucas-boyadjian-535a4815b/))
 - [Email](mailto:votre.email@example.com)
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 ---
