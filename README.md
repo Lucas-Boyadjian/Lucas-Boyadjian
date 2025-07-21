@@ -2,9 +2,11 @@
 
 ## About Me
 
-I'm Lucas, a passionate developer and student at Holberton School.  
-I enjoy building projects, learning new technologies, and solving real-world problems with code.  
-My goal is to become a versatile software engineer, ready to tackle any challenge!
+I'm Lucas, 32 years old, and currently a student at Holberton School since February 2025.  
+My first year is dedicated to mastering the fundamentals of computer science and software engineering, including programming, algorithms, data structures, and system administration.  
+This intensive curriculum is designed to provide me with a strong and versatile technical foundation.  
+For the following two years (2026–2028), I plan to specialize in cybersecurity, a field that fascinates me for its constant evolution and its crucial role in protecting digital systems.  
+I'm highly motivated to keep learning, take on new challenges, and build a career where I can
 
 ---
 
