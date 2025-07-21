@@ -12,6 +12,7 @@ I'm highly motivated to keep learning, take on new challenges, and build a caree
 ## 🛠️ Languages & Tools
 
 ![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
+## 🛠️ Languages & Tools
 
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python**  
@@ -22,6 +23,10 @@ I'm highly motivated to keep learning, take on new challenges, and build a caree
   _Systems programming, algorithms, low-level projects_  
   <sub>holbertonschool-sorting_algorithms, holbertonschool-binary_trees, holbertonschool-low_level_programming, holbertonschool-simple_shell, holbertonschool-printf</sub>
 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**  
+  _Web development and scripting_  
+  <sub>holbertonschool-web_front_end, HolberQuest, holbertonschool-higher_level_programming</sub>
+
 - ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) **Shell**  
   _Scripting and DevOps tasks_  
   <sub>holbertonschool-shell, holbertonschool-zero_day</sub>
@@ -30,8 +35,7 @@ I'm highly motivated to keep learning, take on new challenges, and build a caree
 
 ### Web Development
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
   _Building web interfaces and front-end projects_  
   <sub>holbertonschool-web_front_end, HolberQuest</sub>
 
@@ -48,14 +52,6 @@ I'm highly motivated to keep learning, take on new challenges, and build a caree
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
   _Main development and deployment environment_
-
----
-
-### Other Focus Areas
-- **Algorithms & Data Structures**  
-  <sub>holbertonschool-sorting_algorithms, holbertonschool-binary_trees, holbertonschool-low_level_programming</sub>
-- **Cybersecurity**  
-  <sub>Planned specialization for 2026–2028</sub>
 
 ---
 
