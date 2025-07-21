@@ -10,15 +10,7 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 
 ## 🛠️ Languages & Tools
 
-- **Python** (≈ 70%)  
-  Used for most of my projects: scripting, OOP, web development (Flask), data manipulation, and automation.
-- **C** (≈ 20%)  
-  Used for low-level programming, algorithms, and understanding computer fundamentals.
-- **SQL** (≈ 5%)  
-  Used for database management, queries, and data analysis.
-- **HTML/CSS** (≈ 5%)  
-  Used for web interfaces and server-side rendering with Flask/Jinja.
-- **Other tools:** Git, Linux, Bash, Flask, MySQL
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact)
 
 ---
 
