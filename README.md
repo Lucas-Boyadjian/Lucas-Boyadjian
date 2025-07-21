@@ -10,7 +10,7 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 
 ## 🛠️ Languages & Tools
 
-![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian-Git&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=dark)
 
 ---
 
@@ -41,17 +41,6 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 - Algorithms and data structures (Python & C)
 - Test Driven Development (TDD)
 - Web basics (HTML, CSS, Jinja templates)
-
----
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/votre-profil)
-- [Email](mailto:votre.email@example.com)
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 ---
 
