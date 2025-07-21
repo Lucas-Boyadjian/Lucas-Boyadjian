@@ -31,13 +31,14 @@ My goal is to become a versatile software engineer, ready to tackle any challeng
 
 ---
 
-## 🌱 What I'm Learning
+## 📚 What I'm learning
 
-- Backend development with Python (Flask, SQLAlchemy)
-- Databases (MySQL, SQLite, SQL queries)
-- Algorithms and data structures (Python & C)
-- Test Driven Development (TDD)
-- Web basics (HTML, CSS, Jinja templates)
+- Object-oriented programming in Python
+- Advanced C concepts (pointers, memory management, structures)
+- Web development (HTML, CSS, JavaScript)
+- Algorithms and data structures
+- Using Git and GitHub for project management
+- Shell scripting and automation on Linux
 
 ---
 
