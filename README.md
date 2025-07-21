@@ -4,8 +4,7 @@
 
 I'm Lucas, 32 years old, and currently a student at Holberton School since February 2025. My first year is dedicated to mastering the fundamentals of computer science and software engineering,
 including programming, algorithms, data structures, and system administration. This intensive curriculum is designed to provide me with a strong and versatile technical foundation.
-For the following two years (2026–2028), 
-I plan to specialize in cybersecurity, a field that fascinates me for its constant evolution and its crucial role in protecting digital systems.  
+For the following two years (2026–2028), I plan to specialize in cybersecurity, a field that fascinates me for its constant evolution and its crucial role in protecting digital systems.  
 I'm highly motivated to keep learning, take on new challenges, and build a career where I can make a real impact.
 
 ---
@@ -14,9 +13,34 @@ I'm highly motivated to keep learning, take on new challenges, and build a caree
 
 ![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
 
+### Programming Languages
+- **Python**  
+  Used for scripting, automation, and backend development  
+  *(holbertonschool-higher_level_programming, holbertonschool-chatgpt-introduction, holbertonschool-hbnb)*
+- **C**  
+  Used for systems programming, algorithms, and low-level projects  
+  *(holbertonschool-sorting_algorithms, holbertonschool-binary_trees, holbertonschool-low_level_programming, holbertonschool-simple_shell, holbertonschool-printf)*
+- **Shell**  
+  Used for scripting and DevOps tasks  
+  *(holbertonschool-shell, holbertonschool-zero_day)*
+
+### Web Development
+- **HTML, CSS, JavaScript**  
+  Used for building web interfaces and front-end projects  
+  *(holbertonschool-web_front_end, HolberQuest)*
+
+### DevOps & Tools
+- **Shell scripting**  
+  For automation and system administration  
+  *(holbertonschool-shell, holbertonschool-zero_day)*
+- **Git & GitHub**  
+  For version control and collaboration (used in all projects)
+- **Linux**  
+  As the main development and deployment environment
+
 ---
 
-## 📂 My Public Repositories
+## 🛠️ Tools & Technologies
 
 | Repository | Description | Main Language |
 |---|---|---|
