@@ -85,6 +85,6 @@ For the following two years (2026–2028), I plan to specialize in cybersecurity
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-boyadjian-535a4815b)
-- [Email](luc.boyadjian@gmail.com)
+- [Email](mailto:luc.boyadjian@gmail.com)
 
 ---
