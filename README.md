@@ -35,7 +35,6 @@ Voici une version améliorée et plus attrayante de votre section **Languages & 
   _Dynamic web development and scripting._  
   **Notable Projects:**  
   - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
-  - [HolberQuest](https://github.com/Lucas-Boyadjian/HolberQuest)  
   - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)
 
 - ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) **Shell**  
@@ -71,8 +70,6 @@ Voici une version améliorée et plus attrayante de votre section **Languages & 
   _Main development and deployment environment._
 
 ---
-
-Cette version est plus structurée, visuellement attrayante et met en avant vos compétences et projets de manière professionnelle. 😊
 
 ## 🛠️ Main Repositories
 
