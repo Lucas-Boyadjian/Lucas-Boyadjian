@@ -8,50 +8,71 @@ For the following two years (2026–2028), I plan to specialize in cybersecurity
 
 ---
 
+Voici une version améliorée et plus attrayante de votre section **Languages & Tools** pour votre README GitHub :
+
+---
+
 ## 🛠️ Languages & Tools
 
 ![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
 
-### Programming Languages
+### **Programming Languages**
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python**  
-  _Scripting, automation, backend development_  
-  <sub>holbertonschool-higher_level_programming, holbertonschool-chatgpt-introduction, holbertonschool-hbnb</sub>
+  _Scripting, automation, backend development._  
+  **Notable Projects:**  
+  - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)  
+  - [holbertonschool-hbnb](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb)  
+  - [holbertonschool-chatgpt-introduction](https://github.com/Lucas-Boyadjian/holbertonschool-chatgpt-introduction)
 
 - ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) **C**  
-  _Systems programming, algorithms, low-level projects_  
-  <sub>holbertonschool-sorting_algorithms, holbertonschool-binary_trees, holbertonschool-low_level_programming, holbertonschool-simple_shell, holbertonschool-printf</sub>
+  _Low-level programming, systems development, and algorithms._  
+  **Notable Projects:**  
+  - [holbertonschool-low_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-low_level_programming)  
+  - [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)  
+  - [holbertonschool-binary_trees](https://github.com/Lucas-Boyadjian/holbertonschool-binary_trees)
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**  
-  _Web development and scripting_  
-  <sub>holbertonschool-web_front_end, HolberQuest, holbertonschool-higher_level_programming</sub>
+  _Dynamic web development and scripting._  
+  **Notable Projects:**  
+  - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
+  - [HolberQuest](https://github.com/Lucas-Boyadjian/HolberQuest)  
+  - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)
 
 - ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) **Shell**  
-  _Scripting and DevOps tasks_  
-  <sub>holbertonschool-shell, holbertonschool-zero_day</sub>
+  _Automation, scripting, and DevOps tasks._  
+  **Notable Projects:**  
+  - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
+  - [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day)
 
 ---
 
-### Web Development
+### **Web Development**
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-  _Building web interfaces and front-end projects_  
-  <sub>holbertonschool-web_front_end, HolberQuest</sub>
+  _Building web interfaces and front-end projects._  
+  **Notable Projects:**  
+  - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
+  - [HolberQuest](https://github.com/Lucas-Boyadjian/HolberQuest)
 
 ---
 
-### DevOps & Tools
+### **DevOps & Tools**
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) **Shell scripting**  
-  _Automation and system administration_  
-  <sub>holbertonschool-shell, holbertonschool-zero_day</sub>
+  _Automation and system administration._  
+  **Notable Projects:**  
+  - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
+  - [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day)
 
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-  _Version control and collaboration (used in all projects)_
+  _Version control and collaboration (used in all projects)._
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-  _Main development and deployment environment_
+  _Main development and deployment environment._
 
 ---
+
+Cette version est plus structurée, visuellement attrayante et met en avant vos compétences et projets de manière professionnelle. 😊
 
 ## 🛠️ Main Repositories
 
