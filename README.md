@@ -14,8 +14,6 @@ Voici une version améliorée et plus attrayante de votre section **Languages & 
 
 ## 🛠️ Languages & Tools
 
-![Lucas-Boyadjian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
-
 ### **Programming Languages**
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python**  
   _Scripting, automation, backend development._  
