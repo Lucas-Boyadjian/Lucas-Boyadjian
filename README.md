@@ -15,27 +15,27 @@ Voici une version améliorée et plus attrayante de votre section **Languages & 
 ## 🛠️ Languages & Tools
 
 ### **Programming Languages**
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python**  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
   _Scripting, automation, backend development._  
   **Notable Projects:**  
   - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)  
   - [holbertonschool-hbnb](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb)  
   - [holbertonschool-chatgpt-introduction](https://github.com/Lucas-Boyadjian/holbertonschool-chatgpt-introduction)
 
-- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) **C**  
+- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
   _Low-level programming, systems development, and algorithms._  
   **Notable Projects:**  
   - [holbertonschool-low_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-low_level_programming)  
   - [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)  
   - [holbertonschool-binary_trees](https://github.com/Lucas-Boyadjian/holbertonschool-binary_trees)
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   _Dynamic web development and scripting._  
   **Notable Projects:**  
   - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
   - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)
 
-- ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) **Shell**  
+- ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white) 
   _Automation, scripting, and DevOps tasks._  
   **Notable Projects:**  
   - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
@@ -54,7 +54,7 @@ Voici une version améliorée et plus attrayante de votre section **Languages & 
 ---
 
 ### **DevOps & Tools**
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) **Shell scripting**  
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)  
   _Automation and system administration._  
   **Notable Projects:**  
   - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
