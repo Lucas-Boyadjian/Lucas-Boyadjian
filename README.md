@@ -8,10 +8,6 @@ For the following two years (2026–2028), I plan to specialize in cybersecurity
 
 ---
 
-Voici une version améliorée et plus attrayante de votre section **Languages & Tools** pour votre README GitHub :
-
----
-
 ## 🛠️ Languages & Tools
 
 ### **Programming Languages**
