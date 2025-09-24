@@ -1,123 +1,103 @@
-👋 Hi everyone! Welcome to my GitHub
-About Me
+# 👋 Hi everyone! Welcome to my GitHub
 
-I’m Lucas, currently a student at Holberton School since February 2025. My first year is dedicated to mastering the fundamentals of computer science and software engineering: programming, algorithms, data structures, and system administration. This intensive curriculum gives me a strong and versatile technical foundation.
-In the following two years (2026–2028), I plan to specialize in cybersecurity, a field that fascinates me for its constant evolution and its crucial role in protecting digital systems. I’m highly motivated to keep learning, take on new challenges, and build a career where I can make a real impact.
+## About Me
 
-🛠️ Languages & Tools
-Programming Languages
+I'm Lucas and currently a student at Holberton School since February 2025. My first year is dedicated to mastering the fundamentals of computer science and software engineering, including programming, algorithms, data structures, and system administration. This intensive curriculum is designed to provide me with a strong and versatile technical foundation.
 
+For the following two years (2026–2028), I plan to specialize in cybersecurity, a field that fascinates me for its constant evolution and its crucial role in protecting digital systems. I'm highly motivated to keep learning, take on new challenges, and build a career where I can make a real impact.
 
-Scripting, automation, backend development.
-Notable Projects:
+---
 
-holbertonschool-higher_level_programming
+## 🛠️ Languages & Tools
 
-holbertonschool-hbnb
+### **Programming Languages**
 
-holbertonschool-chatgpt-introduction
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+  _Scripting, automation, backend development._  
+  **Notable Projects:**  
+  - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)  
+  - [holbertonschool-hbnb](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb)  
+  - [holbertonschool-chatgpt-introduction](https://github.com/Lucas-Boyadjian/holbertonschool-chatgpt-introduction)
 
+- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+  _Low-level programming, systems development, and algorithms._  
+  **Notable Projects:**  
+  - [holbertonschool-low_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-low_level_programming)  
+  - [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)  
+  - [holbertonschool-binary_trees](https://github.com/Lucas-Boyadjian/holbertonschool-binary_trees)
 
-Low-level programming, systems development, and algorithms.
-Notable Projects:
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+  _Dynamic web development and scripting._  
+  **Notable Projects:**  
+  - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
+  - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)
 
-holbertonschool-low_level_programming
+- ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)  
+  _Automation, scripting, and DevOps tasks._  
+  **Notable Projects:**  
+  - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
+  - [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day)
 
-holbertonschool-simple_shell
+---
 
-holbertonschool-binary_trees
+### **Web Development**
 
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+  _Building web interfaces and front-end projects._  
+  **Notable Projects:**  
+  - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
+  - [HolberQuest](https://github.com/Lucas-Boyadjian/HolberQuest)
 
-Dynamic web development and scripting.
-Notable Projects:
+---
 
-holbertonschool-web_front_end
+### **DevOps & Tools**
 
-holbertonschool-web_back_end
+- ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)  
+  _Automation and system administration._  
+  **Notable Projects:**  
+  - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
+  - [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day)
 
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+  _Version control and collaboration (used in all projects)._
 
-Automation, scripting, and DevOps tasks.
-Notable Projects:
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+  _Main development and deployment environment._
 
-holbertonschool-shell
+---
 
-holbertonschool-zero_day
+## 🛠️ Main Repositories
 
-Web Development
+| Repository | Description | Main Language |
+|---|---|---|
+| [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming) | Python, JavaScript, and SQL exercises | Python |
+| [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end) | Front-end web projects (HTML, CSS, JS) | HTML |
+| [holbertonschool-chatgpt-introduction](https://github.com/Lucas-Boyadjian/holbertonschool-chatgpt-introduction) | Introduction to ChatGPT and AI concepts | Python |
+| [holbertonschool-sorting_algorithms](https://github.com/Lucas-Boyadjian/holbertonschool-sorting_algorithms) | Implementation of classic sorting algorithms | C |
+| [holbertonschool-binary_trees](https://github.com/Lucas-Boyadjian/holbertonschool-binary_trees) | Binary tree data structures and algorithms | C |
+| [holbertonschool-low_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-low_level_programming) | C programming, algorithms, and data structures | C |
+| [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell) | Shell scripting projects | Shell |
+| [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day) | This is my first repository as a full-stack engineer | Shell |
+| [holbertonschool-hbnb](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb) | AirBnB clone (forked from JulienGirardey) | Python |
+| [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell) | Unix command-line shell (forked from FontGuillaume) | C |
+| [holbertonschool-printf](https://github.com/Lucas-Boyadjian/holbertonschool-printf) | Custom implementation of printf function | C |
 
+---
 
-Front-end development, UI/UX, and SPA architecture.
-Notable Projects:
+## 📚 What I'm learning
 
-holbertonschool-web_front_end
+- Object-oriented programming in Python  
+- Advanced C concepts (pointers, memory management, structures)  
+- Web development (HTML, CSS, JavaScript)  
+- Algorithms and data structures  
+- Using Git and GitHub for project management  
+- Shell scripting and automation on Linux
 
-holbertonschool-web_react
+---
 
-DevOps & Tools
+## 📫 Let's Connect!
 
-
-Automation and system administration.
-Notable Projects:
-
-holbertonschool-shell
-
-holbertonschool-zero_day
-
-
-Containerization, deployment, and DevOps.
-Notable Projects:
-
-holbertonschool-softy-pinko-docker
-
-
-
-
-Version control and collaboration (used in all projects).
-
-
-Main development and deployment environment.
-
-🛠️ Repositories (mise à jour)
-Nom du Répertoire	Description / Notes	Langage / Type
-holbertonschool-system_engineering-devops	Projet DevOps & système	Bash
-holbertonschool-Fix_My_Code_Challenge	Exercices / défis de correction de code	C
-holbertonschool-network	Scripts / projets réseau	Shell
-holbertonschool-web_back_end	Back‑end web	JavaScript
-holbertonschool-web_react	Projets React / front moderne	TypeScript / React
-holbertonschool-softy-pinko-docker	Projet Docker / containerisation	Dockerfile / config
-Lucas-Boyadjian	Portfolio ou dépôt racine	—
-holbertonschool-france-certificates-ibm	Certifications / cours IBM	—
-holbertonschool-hbnb	Clone AirBnB (fork)	Python
-holbertonschool-higher_level_programming	Exercices avancés Python / JS / SQL	Python
-holbertonschool-web_front_end	Projets front-end (HTML, CSS, JS)	HTML / CSS / JS
-holbertonschool-chatgpt-introduction	Introduction à ChatGPT / IA	Python
-holbertonschool-sorting_algorithms	Implémentations d’algorithmes de tri	C
-holbertonschool-binary_trees	Structures d’arbres binaires	C
-holbertonschool-low_level_programming	Bases C / pointeurs / mémoire	C
-holbertonschool-shell	Scripts shell & projets d’automatisation	Shell
-holbertonschool-zero_day	Premier projet full-stack	Shell
-holbertonschool-simple_shell	Shell Unix basique (fork)	C
-holbertonschool-printf	Implémentation custom de printf	C
-📚 What I’m Learning
-
-Object‑oriented programming in Python
-
-Advanced C concepts (pointers, memory management, structures)
-
-Web development (HTML, CSS, JavaScript, React)
-
-Algorithms and data structures
-
-Docker & containerization
-
-Shell scripting and Linux automation
-
-Git & GitHub project management
-
-System engineering and DevOps basics
-
-📫 Let’s Connect!
-
-LinkedIn
-
-Email
+- [LinkedIn](https://www.linkedin.com/in/lucas-boyadjian-535a4815b)  
+- [Email](mailto:luc.boyadjian@gmail.com)
