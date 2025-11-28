@@ -53,12 +53,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📈 GitHub Stats
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
-
----
-
 ## 📚 Currently Learning...
 
 - 🔐 Application & network security  
