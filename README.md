@@ -1,103 +1,88 @@
-# 👋 Hi everyone! Welcome to my GitHub
+# Hi, I'm Lucas 👋
 
-## About Me
+Welcome to my GitHub profile!
 
-I'm Lucas and currently a student at Holberton School since February 2025. My first year is dedicated to mastering the fundamentals of computer science and software engineering, including programming, algorithms, data structures, and system administration. This intensive curriculum is designed to provide me with a strong and versatile technical foundation.
-
-For the following two years (2026–2028), I plan to specialize in cybersecurity, a field that fascinates me for its constant evolution and its crucial role in protecting digital systems. I'm highly motivated to keep learning, take on new challenges, and build a career where I can make a real impact.
-
----
-
-## 🛠️ Languages & Tools
-
-### **Programming Languages**
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  _Scripting, automation, backend development._  
-  **Notable Projects:**  
-  - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)  
-  - [holbertonschool-hbnb](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb)  
-  - [holbertonschool-chatgpt-introduction](https://github.com/Lucas-Boyadjian/holbertonschool-chatgpt-introduction)
-
-- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-  _Low-level programming, systems development, and algorithms._  
-  **Notable Projects:**  
-  - [holbertonschool-low_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-low_level_programming)  
-  - [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)  
-  - [holbertonschool-binary_trees](https://github.com/Lucas-Boyadjian/holbertonschool-binary_trees)
-
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  _Dynamic web development and scripting._  
-  **Notable Projects:**  
-  - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
-  - [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming)
-
-- ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)  
-  _Automation, scripting, and DevOps tasks._  
-  **Notable Projects:**  
-  - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
-  - [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day)
+🎓 Computer Science student at Holberton School Fréjus  
+🔐 Passionate about cybersecurity, systems, web development, and building real-world projects  
+💻 Code explorer, always looking for new challenges
 
 ---
 
-### **Web Development**
+## 🛠️ Technical Skills
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-  _Building web interfaces and front-end projects._  
-  **Notable Projects:**  
-  - [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end)  
-  - [HolberQuest](https://github.com/Lucas-Boyadjian/HolberQuest)
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
----
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-### **DevOps & Tools**
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2C3E50?style=flat&logo=sqlalchemy&logoColor=red)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)  
-  _Automation and system administration._  
-  **Notable Projects:**  
-  - [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell)  
-  - [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day)
-
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-  _Version control and collaboration (used in all projects)._
-
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-  _Main development and deployment environment._
-
----
-
-## 🛠️ Main Repositories
-
-| Repository | Description | Main Language |
-|---|---|---|
-| [holbertonschool-higher_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-higher_level_programming) | Python, JavaScript, and SQL exercises | Python |
-| [holbertonschool-web_front_end](https://github.com/Lucas-Boyadjian/holbertonschool-web_front_end) | Front-end web projects (HTML, CSS, JS) | HTML |
-| [holbertonschool-chatgpt-introduction](https://github.com/Lucas-Boyadjian/holbertonschool-chatgpt-introduction) | Introduction to ChatGPT and AI concepts | Python |
-| [holbertonschool-sorting_algorithms](https://github.com/Lucas-Boyadjian/holbertonschool-sorting_algorithms) | Implementation of classic sorting algorithms | C |
-| [holbertonschool-binary_trees](https://github.com/Lucas-Boyadjian/holbertonschool-binary_trees) | Binary tree data structures and algorithms | C |
-| [holbertonschool-low_level_programming](https://github.com/Lucas-Boyadjian/holbertonschool-low_level_programming) | C programming, algorithms, and data structures | C |
-| [holbertonschool-shell](https://github.com/Lucas-Boyadjian/holbertonschool-shell) | Shell scripting projects | Shell |
-| [holbertonschool-zero_day](https://github.com/Lucas-Boyadjian/holbertonschool-zero_day) | This is my first repository as a full-stack engineer | Shell |
-| [holbertonschool-hbnb](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb) | AirBnB clone (forked from JulienGirardey) | Python |
-| [holbertonschool-simple_shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell) | Unix command-line shell (forked from FontGuillaume) | C |
-| [holbertonschool-printf](https://github.com/Lucas-Boyadjian/holbertonschool-printf) | Custom implementation of printf function | C |
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📚 What I'm learning
+## 🚀 Recent Projects
 
-- Object-oriented programming in Python  
-- Advanced C concepts (pointers, memory management, structures)  
-- Web development (HTML, CSS, JavaScript)  
-- Algorithms and data structures  
-- Using Git and GitHub for project management  
-- Shell scripting and automation on Linux
+- 🔧 **[Simple Shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)** — A command-line shell interpreter written in C (fork, execve, PATH…)  
+- 🖨️ **[Custom Printf](https://github.com/Lucas-Boyadjian/holbertonschool-printf)** — Reimplementation of the printf function with buffer management  
+- 🌐 **[AirBnB Clone - HBNB](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb)** — Full web application with Python/Flask backend + ORM + database storage  
 
 ---
 
-## 📫 Let's Connect!
+## 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-boyadjian-535a4815b)  
-- [Email](mailto:luc.boyadjian@gmail.com)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Boyadjian&layout=compact&theme=dark)
+
+---
+
+## 📚 Currently Learning...
+
+- 🔐 Application & network security  
+- ⚡ Low-level code optimization in C  
+- 📱 Mobile development with React Native  
+- ☁️ Automation and deployment with Docker  
+
+---
+
+## 🧠 Fun Facts
+
+- 💻 Passionate about creating innovative solutions  
+- 🧩 Love solving technical challenges and understanding **"how things work"**  
+- 🚀 Always exploring new technologies and pushing my limits  
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn: [Lucas Boyadjian](https://www.linkedin.com/in/lucas-boyadjian-535a4815b/)  
+- 📬 Email: luc.boyadjian@gmail.com
+
+---
+
+💼 **Currently available for internship or apprenticeship**
+
+Thanks for stopping by, and happy coding! 🚀
