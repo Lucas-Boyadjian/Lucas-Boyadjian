@@ -74,6 +74,7 @@ Welcome to my GitHub profile!
 
 - 💼 LinkedIn: [Lucas Boyadjian](https://www.linkedin.com/in/lucas-boyadjian-535a4815b/)  
 - 📬 Email: luc.boyadjian@gmail.com
+- 🌍 Portfolio: [Mova](https://lucas-boyadjian.github.io/Landing-Page-Mova/)  
 
 ---
 
