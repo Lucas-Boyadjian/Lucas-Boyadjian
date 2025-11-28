@@ -45,10 +45,10 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Team Projects
 
-- 🔧 **[Simple Shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)** — A command-line shell interpreter written in C (fork, execve, PATH…)  
 - 🖨️ **[Custom Printf](https://github.com/Lucas-Boyadjian/holbertonschool-printf)** — Reimplementation of the printf function with buffer management  
+- 🔧 **[Simple Shell](https://github.com/Lucas-Boyadjian/holbertonschool-simple_shell)** — A command-line shell interpreter written in C (fork, execve, PATH…)  
 - 🌐 **[AirBnB Clone - HBNB](https://github.com/Lucas-Boyadjian/holbertonschool-hbnb)** — Full web application with Python/Flask backend + ORM + database storage  
 
 ---
